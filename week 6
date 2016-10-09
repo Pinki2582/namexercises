@@ -1,0 +1,28 @@
+1. 1
+2. 3
+3. public class Dog {
+    private String breed;
+    private float weight;
+    private float height;
+    public String getBreed() {
+		return breed;
+	}
+	public void setBreed(String breed) {
+		this.breed = breed;
+	}
+	public float getWeight() {
+		return weight;
+	}
+	public void setWeight(float weight) {
+		this.weight = weight;
+	}
+	public float getHeight() {
+		return height;
+	}
+	public void setHeight(float height) {
+		this.height = height;
+	}
+	
+}
+4.4
+5.4
