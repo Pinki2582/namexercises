@@ -1,2 +1,0 @@
-# namexercises
-Nam Execises
